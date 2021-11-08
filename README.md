@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Danny Tierney
+### Hi there 👋, I'm Danny Tierney
 #### Aspiring Software Developer
 
 I'm Danny from St. Paul, Minnesota. I'm a recent Computer Science graduate and enjoy working in Java and Python.
