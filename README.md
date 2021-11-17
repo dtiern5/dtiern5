@@ -5,7 +5,7 @@ I'm Danny from St. Paul, Minnesota. I'm a recent Computer Science graduate and e
 
 Skills: Java / JavaFX / JDBC / MySQL / Python / C++
 
-- 🔭 I’m currently working on a CRUD web application using Postgresql, Spring Boot, and Thymeleaf 
+- 🔭 I’m currently working on a personal website to strengthen my HTML, CSS, and JavaScript
 - 🌱 I’m currently learning Spring Boot and Angular
 - 📫 How to reach me: dannyjtierney@gmail.com 
 - 😄 Pronouns: He / him / his 
