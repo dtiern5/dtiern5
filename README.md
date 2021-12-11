@@ -5,7 +5,7 @@ I'm Danny from St. Paul, Minnesota. I'm a recent Computer Science graduate and e
 
 Skills: Java / Python / HTML / CSS / JavaScript / SQL
 
-- 🔭 I’m currently working on a personal website to strengthen my HTML, CSS, and JavaScript
+- 🔭 I’m currently working on a Note Keeper app
 - 🌱 I’m currently learning React
 - 📫 How to reach me: dannyjtierney@gmail.com 
 - 😄 Pronouns: He / him / his 
