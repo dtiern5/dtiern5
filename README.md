@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Danny Tierney
 #### Software Developer
 
-I'm Danny from St. Paul, Minnesota. I'm a recent Computer Science graduate and enjoy working in Java and Python.
+I'm Danny from St. Paul, Minnesota. I'm a Software Developer and enjoy creating web applications that solve unique problems.
 
-Skills: Java / Python / HTML / CSS / JavaScript / SQL
+Skills: React / NodeJS / Java / Python / SQL / MongoDB
 
-- 🔭 I’m currently working on a Note Keeper app
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on a recipe sharing app
 - 📫 How to reach me: dannyjtierney@gmail.com 
 - 😄 Pronouns: He / him / his 
 
