@@ -5,7 +5,7 @@ I'm Danny from St. Paul, Minnesota. I'm a Software Developer and enjoy creating 
 
 Skills: React / NodeJS / Java / Python / SQL / MongoDB
 
-- 🔭 I’m currently working on a recipe sharing app
+- 🔭 I’m currently working on a web app consuming Spotify's REST API
 - 📫 How to reach me: dannyjtierney@gmail.com 
 - 😄 Pronouns: He / him / his 
 
