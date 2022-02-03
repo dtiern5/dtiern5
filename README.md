@@ -3,7 +3,7 @@
 
 I'm Danny from St. Paul, Minnesota. I'm a Software Developer and enjoy creating web applications and working with machine learning. I'm always looking to collaborate and take on new challenges!
 
-Skills: React / NodeJS / JavaScript / Java / Python / SQL
+Skills: React / Node.js / JavaScript / Java / Python / SQL
 
 - 🔭 I’m currently working on a web app consuming Spotify's REST API
 - 📫 How to reach me: dannyjtierney@gmail.com 
