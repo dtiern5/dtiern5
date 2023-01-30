@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Danny Tierney
 #### Software Developer
 
-I'm Danny from St. Paul, Minnesota. I'm a Software Developer and enjoy creating web applications and working with machine learning. I'm always looking to collaborate and take on new challenges!
+I'm Danny from St. Paul, Minnesota. I'm a Software Engineer and love working with all sorts of technologies. Lately  I've been focused on Spring batch.
 
-Skills: React / Node.js / JavaScript / Java / Python / SQL
+Skills: Java / Node.js / JavaScript / React / Python / SQL
 
-- 🔭 I’m currently working on a web app consuming Spotify's REST API
 - 📫 How to reach me: dannyjtierney@gmail.com 
 - 😄 Pronouns: He / him / his 
 
