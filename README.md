@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Danny Tierney
-#### Software Developer
+#### Software Engineer
 
 I'm Danny from St. Paul, Minnesota. I'm a Software Engineer and love working with all sorts of technologies. Lately  I've been focused on Spring batch.
 
